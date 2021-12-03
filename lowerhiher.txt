@@ -1,4 +1,0 @@
-rem 
-go to 
-666
-elins
